@@ -1,6 +1,6 @@
-# Binaries
-server
-client
+# Binaries (in root only)
+/server
+/client
 
 # Generated proto files
 *.pb.go
